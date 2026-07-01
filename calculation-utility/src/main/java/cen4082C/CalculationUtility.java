@@ -19,7 +19,7 @@ public class CalculationUtility {
 		// This section is purely temporary for this specific assignment, so felt no need to make a comment for this main. 
 		// Assuming this will be used as a hub for mathematical functions later in the course, so I doubt main will even really need to exist.
 		int num = 9;
-		System.out.println("Midterm Example 1");
+		System.out.println("HELLO, ALL! MIDTERM TIME!");
 		System.out.println("Current number selected to find in the Fibonacci sequence: " + num);
 		int result = fibonacci(num);
 		if(result == -1) {
