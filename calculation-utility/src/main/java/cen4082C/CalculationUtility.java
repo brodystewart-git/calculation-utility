@@ -21,7 +21,7 @@ public class CalculationUtility {
 	private static final Logger logger = LoggerFactory.getLogger(CalculationUtility.class);
 	
 	public static void main(String[] args) {
-		logger.info("Starting Calculation Utility program.");
+		logger.info("Starting Calculation Utility program!");
 		for (int i = -5; i <= 100; i++) {
 			int num = fibonacci(i);
 			
