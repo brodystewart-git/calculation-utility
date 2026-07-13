@@ -1,0 +1,107 @@
+2026-07-11 14:07:51.072 [main] INFO  cen4082C.CalculationUtility - Starting Calculation Utility program.
+2026-07-11 14:07:51.078 [main] WARN  cen4082C.CalculationUtility - The number {i} is invalid (negative input). 
+2026-07-11 14:07:51.079 [main] WARN  cen4082C.CalculationUtility - The number {i} is invalid (negative input). 
+2026-07-11 14:07:51.079 [main] WARN  cen4082C.CalculationUtility - The number {i} is invalid (negative input). 
+2026-07-11 14:07:51.079 [main] WARN  cen4082C.CalculationUtility - The number {i} is invalid (negative input). 
+2026-07-11 14:07:51.079 [main] WARN  cen4082C.CalculationUtility - The number {i} is invalid (negative input). 
+2026-07-11 14:07:51.079 [main] INFO  cen4082C.CalculationUtility - The number at position 0 of the sequence is 0
+2026-07-11 14:07:51.079 [main] INFO  cen4082C.CalculationUtility - The number at position 1 of the sequence is 1
+2026-07-11 14:07:51.079 [main] INFO  cen4082C.CalculationUtility - The number at position 2 of the sequence is 1
+2026-07-11 14:07:51.079 [main] INFO  cen4082C.CalculationUtility - The number at position 3 of the sequence is 2
+2026-07-11 14:07:51.079 [main] INFO  cen4082C.CalculationUtility - The number at position 4 of the sequence is 3
+2026-07-11 14:07:51.079 [main] INFO  cen4082C.CalculationUtility - The number at position 5 of the sequence is 5
+2026-07-11 14:07:51.079 [main] INFO  cen4082C.CalculationUtility - The number at position 6 of the sequence is 8
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 7 of the sequence is 13
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 8 of the sequence is 21
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 9 of the sequence is 34
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 10 of the sequence is 55
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 11 of the sequence is 89
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 12 of the sequence is 144
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 13 of the sequence is 233
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 14 of the sequence is 377
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 15 of the sequence is 610
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 16 of the sequence is 987
+2026-07-11 14:07:51.080 [main] INFO  cen4082C.CalculationUtility - The number at position 17 of the sequence is 1597
+2026-07-11 14:07:51.081 [main] INFO  cen4082C.CalculationUtility - The number at position 18 of the sequence is 2584
+2026-07-11 14:07:51.081 [main] INFO  cen4082C.CalculationUtility - The number at position 19 of the sequence is 4181
+2026-07-11 14:07:51.081 [main] INFO  cen4082C.CalculationUtility - The number at position 20 of the sequence is 6765
+2026-07-11 14:07:51.081 [main] INFO  cen4082C.CalculationUtility - The number at position 21 of the sequence is 10946
+2026-07-11 14:07:51.081 [main] INFO  cen4082C.CalculationUtility - The number at position 22 of the sequence is 17711
+2026-07-11 14:07:51.082 [main] INFO  cen4082C.CalculationUtility - The number at position 23 of the sequence is 28657
+2026-07-11 14:07:51.082 [main] INFO  cen4082C.CalculationUtility - The number at position 24 of the sequence is 46368
+2026-07-11 14:07:51.082 [main] INFO  cen4082C.CalculationUtility - The number at position 25 of the sequence is 75025
+2026-07-11 14:07:51.083 [main] INFO  cen4082C.CalculationUtility - The number at position 26 of the sequence is 121393
+2026-07-11 14:07:51.084 [main] INFO  cen4082C.CalculationUtility - The number at position 27 of the sequence is 196418
+2026-07-11 14:07:51.085 [main] INFO  cen4082C.CalculationUtility - The number at position 28 of the sequence is 317811
+2026-07-11 14:07:51.088 [main] INFO  cen4082C.CalculationUtility - The number at position 29 of the sequence is 514229
+2026-07-11 14:07:51.091 [main] INFO  cen4082C.CalculationUtility - The number at position 30 of the sequence is 832040
+2026-07-11 14:07:51.098 [main] INFO  cen4082C.CalculationUtility - The number at position 31 of the sequence is 1346269
+2026-07-11 14:07:51.109 [main] INFO  cen4082C.CalculationUtility - The number at position 32 of the sequence is 2178309
+2026-07-11 14:07:51.125 [main] INFO  cen4082C.CalculationUtility - The number at position 33 of the sequence is 3524578
+2026-07-11 14:07:51.150 [main] INFO  cen4082C.CalculationUtility - The number at position 34 of the sequence is 5702887
+2026-07-11 14:07:51.192 [main] INFO  cen4082C.CalculationUtility - The number at position 35 of the sequence is 9227465
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 36 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 37 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 38 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 39 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 40 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 41 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 42 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 43 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 44 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.192 [main] ERROR cen4082C.CalculationUtility - The number as position 45 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 46 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 47 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 48 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 49 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 50 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 51 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 52 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 53 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 54 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 55 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 56 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 57 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 58 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 59 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 60 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.193 [main] ERROR cen4082C.CalculationUtility - The number as position 61 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 62 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 63 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 64 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 65 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 66 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 67 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 68 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 69 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 70 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 71 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 72 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 73 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 74 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 75 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 76 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.194 [main] ERROR cen4082C.CalculationUtility - The number as position 77 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 78 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 79 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 80 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 81 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 82 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 83 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 84 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 85 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 86 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 87 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 88 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 89 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 90 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 91 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 92 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 93 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 94 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 95 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 96 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 97 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.195 [main] ERROR cen4082C.CalculationUtility - The number as position 98 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.197 [main] ERROR cen4082C.CalculationUtility - The number as position 99 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
+2026-07-11 14:07:51.197 [main] ERROR cen4082C.CalculationUtility - The number as position 100 of the sequence is too long and will cause a hang. Calculation halted for safety metrics.
