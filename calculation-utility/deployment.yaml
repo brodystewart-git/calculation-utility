@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: utility-container
-        image: calc-utility:v1
+        image: calc-utility:latest
         imagePullPolicy: Never
         stdin: true
         tty: true 
