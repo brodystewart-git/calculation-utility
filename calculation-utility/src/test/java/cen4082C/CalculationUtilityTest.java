@@ -14,7 +14,6 @@ class CalculationUtilityTest {
 		int expected = 8;
 		int result = CalculationUtility.fibonacci(6);
 		assertEquals(expected, result, "Testing fibonacci method for the 6th place, expecting 8.");
-		System.out.println("IT'S BEEN EDITED!!!");
 	}
 
 	// Edge case, 0 in the fibonacci sequence should be 0. 
